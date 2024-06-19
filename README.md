@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakshi4160
-- 🌱 I’m currently learning Data Science!
+- 🌱 Entry-level data scientist with a strong foundation in data preprocessing, feature engineering, and model evaluation. Skilled in Python, scikit-learn, and data visualization libraries, adept at utilizing machine learning algorithms to solve real-world problems and drive data-centric decision-making.
 
 
 <!---
