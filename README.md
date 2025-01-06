@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @sakshi4160
-- 🌱 Entry-level data scientist with a strong foundation in data preprocessing, feature engineering, and model evaluation. Skilled in Python, scikit-learn, and data visualization libraries, adept at utilizing machine learning algorithms to solve real-world problems and drive data-centric decision-making.
+- 🌱 Motivated entry-level Data Analyst with a strong foundation in Mathematics. Proficient in data cleaning, analysis,
+ and visualization using Power BI, SQL, Python, and DAX. Experienced in data visualization, ETL processes, and
+problem-solving, with a focus on delivering actionable insights to drive data-driven decisions.
 
 
 <!---
